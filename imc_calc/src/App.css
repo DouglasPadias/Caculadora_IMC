@@ -1,0 +1,9 @@
+/* CSS do App */
+
+.container{
+    background-color: #485460;
+    min-height: 400px;
+    min-width: 400px;
+    border-radius: 4px;
+    padding: 2rem;
+}
